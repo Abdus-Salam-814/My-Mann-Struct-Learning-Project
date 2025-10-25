@@ -1,0 +1,16 @@
+h5{
+    font-size: 25px;
+    color: saddlebrown;
+    background-color: aquamarine;
+    padding: 12px 30px;
+}
+
+.p-style{
+    color: tomato;
+}
+
+.btn-ex{
+    background-color: slategray;
+    color: white;
+    padding: 5px 19px;
+}
