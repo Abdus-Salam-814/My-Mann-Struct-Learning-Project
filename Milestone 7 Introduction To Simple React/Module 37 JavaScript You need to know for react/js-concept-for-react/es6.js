@@ -35,4 +35,16 @@ const isEven = x => x % 2 === 0;
 console.log(isEven(8))
 
 
+const addThree = (x, y, z) => x + y + z;
+
+const doMath = (num1, num2) =>{
+    const sum = num1 + num2;
+    return sum;
+}
+
+
+// spread oparator
+
+
+
 
