@@ -44,7 +44,22 @@ const doMath = (num1, num2) =>{
 
 
 // spread oparator
+console.log(numbers)
 
+const newNumbers = [...numbers];
 
+numbers.push(99)
+
+console.log(numbers)
+
+newNumbers.push(44444)
+
+console.log(newNumbers)
+
+//create a new array form an older array and an element
+
+const currentNumbers = [...numbers, 555555];
+
+console.log(currentNumbers)
 
 
