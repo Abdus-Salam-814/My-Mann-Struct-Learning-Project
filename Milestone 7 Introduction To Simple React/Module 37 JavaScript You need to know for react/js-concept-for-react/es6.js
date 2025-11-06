@@ -21,5 +21,18 @@ console.log(about)
 
 const getFiftyFive = () => 55;
 
-
 console.log(getFiftyFive())
+
+const addSixtyFive = (num = 0) => num + getFiftyFive();
+
+
+console.log(addSixtyFive(10))
+
+
+const isEven = x => x % 2 === 0;
+
+
+console.log(isEven(8))
+
+
+
